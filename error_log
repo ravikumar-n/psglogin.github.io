@@ -1,0 +1,14 @@
+[04-Sep-2017 02:59:16 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'dummyMX'@'localhost' (using password: YES) in /home/psglogin2017/public_html/AlumniRegistered.php on line 48
+[04-Sep-2017 02:59:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/psglogin2017/public_html/AlumniRegistered.php on line 55
+[04-Sep-2017 02:59:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/psglogin2017/public_html/AlumniRegistered.php on line 59
+[04-Sep-2017 02:59:16 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/psglogin2017/public_html/AlumniRegistered.php on line 67
+[04-Sep-2017 05:22:44 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/psglogin2017/public_html/AlumniRegistered.php on line 44
+[04-Sep-2017 05:25:15 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/psglogin2017/public_html/AlumniRegistered.php on line 44
+[04-Sep-2017 05:25:22 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/psglogin2017/public_html/AlumniRegistered.php on line 44
+[04-Sep-2017 15:08:44 UTC] PHP Parse error:  syntax error, unexpected '" Alumni have Registered</h2><' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/psglogin2017/public_html/AlumniRegistered.php on line 43
+[13-Sep-2017 15:23:19 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/psglogin2017/public_html/AlumniRegistered.php on line 33
+[13-Sep-2017 15:23:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/psglogin2017/public_html/AlumniRegistered.php on line 41
+[13-Sep-2017 15:23:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/psglogin2017/public_html/AlumniRegistered.php on line 42
+[13-Sep-2017 15:23:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/psglogin2017/public_html/AlumniRegistered.php on line 60
+[13-Sep-2017 15:23:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/psglogin2017/public_html/AlumniRegistered.php on line 64
+[13-Sep-2017 15:23:19 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/psglogin2017/public_html/AlumniRegistered.php on line 74

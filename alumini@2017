@@ -1,0 +1,19 @@
+[03-Sep-2017 02:27:16 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'dummyMx'@'localhost' (using password: YES) in /home/psglogin2017/public_html/organizer/index.php on line 2
+[03-Sep-2017 02:27:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/psglogin2017/public_html/organizer/index.php on line 9
+[03-Sep-2017 02:27:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/psglogin2017/public_html/organizer/index.php on line 27
+[03-Sep-2017 02:27:16 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/psglogin2017/public_html/organizer/index.php on line 41
+[03-Sep-2017 02:28:16 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'dummyMX'@'localhost' (using password: YES) in /home/psglogin2017/public_html/organizer/index.php on line 2
+[03-Sep-2017 02:28:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/psglogin2017/public_html/organizer/index.php on line 9
+[03-Sep-2017 02:28:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/psglogin2017/public_html/organizer/index.php on line 27
+[03-Sep-2017 02:28:16 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/psglogin2017/public_html/organizer/index.php on line 41
+[03-Sep-2017 02:28:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'dummyMX'@'localhost' (using password: YES) in /home/psglogin2017/public_html/organizer/index.php on line 2
+[03-Sep-2017 02:28:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/psglogin2017/public_html/organizer/index.php on line 9
+[03-Sep-2017 02:28:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/psglogin2017/public_html/organizer/index.php on line 27
+[03-Sep-2017 02:28:17 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/psglogin2017/public_html/organizer/index.php on line 41
+[04-Sep-2017 04:09:54 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/psglogin2017/public_html/organizer/index.php on line 60
+[04-Sep-2017 04:09:57 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/psglogin2017/public_html/organizer/index.php on line 60
+[04-Sep-2017 04:10:38 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/psglogin2017/public_html/organizer/index.php on line 60
+[04-Sep-2017 04:10:43 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/psglogin2017/public_html/organizer/index.php on line 60
+[04-Sep-2017 04:10:48 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/psglogin2017/public_html/organizer/index.php on line 60
+[04-Sep-2017 04:16:09 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/psglogin2017/public_html/organizer/index.php on line 42
+[04-Sep-2017 04:16:47 UTC] PHP Parse error:  syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' in /home/psglogin2017/public_html/organizer/index.php on line 41
